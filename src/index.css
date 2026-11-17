@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  --color-warm-canvas: #FBF9F5;
+  --color-warm-surface: #F5EFE6;
+  --color-warm-border: #E8E0D2;
+  --color-espresso: #201A16;
+  --color-coffee: #795548;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}

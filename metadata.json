@@ -1,0 +1,8 @@
+{
+  "name": "9C Kelompok 2 Kreatif Cafe - SMPIT Citra Az-Zahra",
+  "description": "Website resmi Kreatif Cafe SMPIT Citra Az-Zahra. Kafe minimalis, ruang kreasi, menu kopi \u0026 santapan halal, serta pusat kolaborasi siswa, guru, dan keluarga besar sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
